@@ -1,2 +1,5 @@
-Temp/**
-Library/**
+Temp/*
+Library/*
+Build/*
+obj/*
+Logs/*
